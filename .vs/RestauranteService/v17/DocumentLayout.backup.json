@@ -1,38 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\",
+  "WorkspaceRootPath": "C:\\Users\\Jackson\\source\\repos\\Microservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\jackson\\source\\repos\\2461-microservices-dotnet\\restauranteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\jackson\\source\\repos\\2461-microservices-dotnet\\itemservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\jackson\\source\\repos\\2461-microservices-dotnet\\restauranteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\jackson\\source\\repos\\microservices\\restauranteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\jackson\\source\\repos\\2461-microservices-dotnet\\itemservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\jackson\\source\\repos\\2461-microservices-dotnet\\restauranteservice\\httpclient\\itemservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\httpclient\\itemservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\jackson\\source\\repos\\2461-microservices-dotnet\\restauranteservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\jackson\\source\\repos\\microservices\\restauranteservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\jackson\\source\\repos\\2461-microservices-dotnet\\restauranteservice\\httpclient\\iitemservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\httpclient\\iitemservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\jackson\\source\\repos\\microservices\\restauranteservice\\rabbitmqclient\\rabbitmqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\rabbitmqclient\\rabbitmqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\jackson\\source\\repos\\2461-microservices-dotnet\\restauranteservice\\restauranteservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\jackson\\source\\repos\\microservices\\restauranteservice\\rabbitmqclient\\irabbitmqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\rabbitmqclient\\irabbitmqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\jackson\\source\\repos\\microservices\\restauranteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\jackson\\source\\repos\\microservices\\restauranteservice\\restauranteservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\restauranteservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\jackson\\source\\repos\\microservices\\itemservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\jackson\\source\\repos\\microservices\\itemservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\jackson\\source\\repos\\microservices\\restauranteservice\\httpclient\\itemservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\httpclient\\itemservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\jackson\\source\\repos\\microservices\\restauranteservice\\httpclient\\iitemservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\httpclient\\iitemservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,89 +58,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\ItemService\\appsettings.json",
-              "RelativeDocumentMoniker": "ItemService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\ItemService\\appsettings.json",
-              "RelativeToolTip": "ItemService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-31T01:13:39.194Z",
+              "DocumentIndex": 2,
+              "Title": "RabbitMqClient.cs",
+              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\RabbitMqClient\\RabbitMqClient.cs",
+              "RelativeDocumentMoniker": "RestauranteService\\RabbitMqClient\\RabbitMqClient.cs",
+              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\RabbitMqClient\\RabbitMqClient.cs",
+              "RelativeToolTip": "RestauranteService\\RabbitMqClient\\RabbitMqClient.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:06:50.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RestauranteController.cs",
-              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\ItemService\\Controllers\\RestauranteController.cs",
-              "RelativeDocumentMoniker": "ItemService\\Controllers\\RestauranteController.cs",
-              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\ItemService\\Controllers\\RestauranteController.cs",
-              "RelativeToolTip": "ItemService\\Controllers\\RestauranteController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAFAAAAAAAAAA==",
+              "Title": "IRabbitMqClient.cs",
+              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\RabbitMqClient\\IRabbitMqClient.cs",
+              "RelativeDocumentMoniker": "RestauranteService\\RabbitMqClient\\IRabbitMqClient.cs",
+              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\RabbitMqClient\\IRabbitMqClient.cs",
+              "RelativeToolTip": "RestauranteService\\RabbitMqClient\\IRabbitMqClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T01:08:42.654Z",
+              "WhenOpened": "2025-02-01T07:05:38.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\RestauranteService\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\appsettings.json",
               "RelativeDocumentMoniker": "RestauranteService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\RestauranteService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\appsettings.json",
               "RelativeToolTip": "RestauranteService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-31T01:05:28.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\RestauranteService\\Program.cs",
-              "RelativeDocumentMoniker": "RestauranteService\\Program.cs",
-              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\RestauranteService\\Program.cs",
-              "RelativeToolTip": "RestauranteService\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T00:54:04.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ItemServiceHttpClient.cs",
-              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\RestauranteService\\HttpClient\\ItemServiceHttpClient.cs",
-              "RelativeDocumentMoniker": "RestauranteService\\HttpClient\\ItemServiceHttpClient.cs",
-              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\RestauranteService\\HttpClient\\ItemServiceHttpClient.cs",
-              "RelativeToolTip": "RestauranteService\\HttpClient\\ItemServiceHttpClient.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T00:39:43.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "IItemServiceHttpClient.cs",
-              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\RestauranteService\\HttpClient\\IItemServiceHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\HttpClient\\IItemServiceHttpClient.cs",
               "RelativeDocumentMoniker": "RestauranteService\\HttpClient\\IItemServiceHttpClient.cs",
-              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\RestauranteService\\HttpClient\\IItemServiceHttpClient.cs",
+              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\HttpClient\\IItemServiceHttpClient.cs",
               "RelativeToolTip": "RestauranteService\\HttpClient\\IItemServiceHttpClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T00:38:12.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T00:38:12.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RestauranteService",
-              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\RestauranteService\\RestauranteService.csproj",
+              "DocumentIndex": 5,
+              "Title": "RestauranteService.csproj",
+              "DocumentMoniker": "C:\\Users\\Jackson\\Source\\Repos\\Microservices\\RestauranteService\\RestauranteService.csproj",
               "RelativeDocumentMoniker": "RestauranteService\\RestauranteService.csproj",
-              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\RestauranteService\\RestauranteService.csproj",
+              "ToolTip": "C:\\Users\\Jackson\\Source\\Repos\\Microservices\\RestauranteService\\RestauranteService.csproj",
               "RelativeToolTip": "RestauranteService\\RestauranteService.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -141,16 +122,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "RestauranteController.cs",
-              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\RestauranteService\\Controllers\\RestauranteController.cs",
+              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\Controllers\\RestauranteController.cs",
               "RelativeDocumentMoniker": "RestauranteService\\Controllers\\RestauranteController.cs",
-              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\2461-microservices-dotnet\\RestauranteService\\Controllers\\RestauranteController.cs",
+              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\Controllers\\RestauranteController.cs",
               "RelativeToolTip": "RestauranteService\\Controllers\\RestauranteController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T00:32:05.862Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\Program.cs",
+              "RelativeDocumentMoniker": "RestauranteService\\Program.cs",
+              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\Program.cs",
+              "RelativeToolTip": "RestauranteService\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:54:04.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemServiceHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\HttpClient\\ItemServiceHttpClient.cs",
+              "RelativeDocumentMoniker": "RestauranteService\\HttpClient\\ItemServiceHttpClient.cs",
+              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\HttpClient\\ItemServiceHttpClient.cs",
+              "RelativeToolTip": "RestauranteService\\HttpClient\\ItemServiceHttpClient.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:39:43.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestauranteController.cs",
+              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\Microservices\\ItemService\\Controllers\\RestauranteController.cs",
+              "RelativeDocumentMoniker": "ItemService\\Controllers\\RestauranteController.cs",
+              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\Microservices\\ItemService\\Controllers\\RestauranteController.cs",
+              "RelativeToolTip": "ItemService\\Controllers\\RestauranteController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T01:08:42.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jackson\\source\\repos\\Microservices\\ItemService\\appsettings.json",
+              "RelativeDocumentMoniker": "ItemService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jackson\\source\\repos\\Microservices\\ItemService\\appsettings.json",
+              "RelativeToolTip": "ItemService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T01:13:39.194Z"
             }
           ]
         }
