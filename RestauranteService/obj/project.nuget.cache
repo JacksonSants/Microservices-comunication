@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5SyJLxrC8vQ=",
+  "dgSpecHash": "ZZ0DFlxu5/s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jackson\\Source\\Repos\\Microservices\\RestauranteService\\RestauranteService.csproj",
+  "projectFilePath": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\RestauranteService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jackson\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Jackson\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

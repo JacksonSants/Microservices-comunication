@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jackson\\Source\\Repos\\Microservices\\RestauranteService\\RestauranteService.csproj": {}
+    "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\RestauranteService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jackson\\Source\\Repos\\Microservices\\RestauranteService\\RestauranteService.csproj": {
+    "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\RestauranteService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jackson\\Source\\Repos\\Microservices\\RestauranteService\\RestauranteService.csproj",
+        "projectUniqueName": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\RestauranteService.csproj",
         "projectName": "RestauranteService",
-        "projectPath": "C:\\Users\\Jackson\\Source\\Repos\\Microservices\\RestauranteService\\RestauranteService.csproj",
+        "projectPath": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\RestauranteService.csproj",
         "packagesPath": "C:\\Users\\Jackson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jackson\\Source\\Repos\\Microservices\\RestauranteService\\obj\\",
+        "outputPath": "C:\\Users\\Jackson\\source\\repos\\Microservices\\RestauranteService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
